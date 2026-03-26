@@ -4,7 +4,7 @@
 using namespace std;
 int sum(int ,int ,int=0,int=0,int=0,int=0 );
 int main(){
-   int a,b,c,d,e,fw;
+   int a,b,c,d,e,f;
    cout << "enter th e6 intergers: "<<endl;
    cin>>a>>b>>c>>d>>e>>f;
    int s=sum(a,b,c,d,e,f);
